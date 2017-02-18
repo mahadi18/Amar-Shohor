@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/city"
+            android:visibility="visible"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:layout_margin="20dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amar Shohor  is an app  for Change. Don't just sit back and fret about the problems in your neighbourhood. Be a Champion of Change and transform the quality of life in your neighbourhood.
+
+・ Take a picture of the garbage dump in front of your house, the broken streetlight that is making a street unsafe, the gaping pothole that is causing the traffic jam on your way to work.
+
+・ Post a Complaint using the app and get it sent to the correct Civic Agency (BBMP, BWSSB, BESCOM, etc) within minutes.
+
+・ Easily set the location of the problem on the map, even if you don't know the exact address."
+        android:textSize="18dp"
+        android:layout_marginLeft="5dp"
+        android:textStyle="normal"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed by Montasir and Zihadi"
+        android:textStyle="italic"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="orange">#e25718</color>
+    <color name="text">#fafbf9</color>
+    <color name="action_bar">#1f2649</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="actionbar_background">#1A8180</color>
+    <color name="splash_screen_darkblue">#2D4350</color>
+    <color name="splash_screen_darkgreen">#008A00</color>
+    <color name="splash_screen_lightgreen">#00A552</color>
+    <color name="splash_screen_facebookblue">#3F5A9D</color>
+    <color name="skype">#4AC3EE</color>
+</resources>

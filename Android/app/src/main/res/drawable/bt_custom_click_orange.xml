@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@drawable/gradient_orange_shadowed" android:state_focused="false" android:state_pressed="false" android:state_selected="false">
+
+
+    </item>
+    <item android:drawable="@drawable/gradient_orange_shadowed" android:state_focused="false" android:state_pressed="false" android:state_selected="true" />
+
+
+    <!--  Focused states
+    -->
+    <item android:drawable="@drawable/shape_round_rect_green" android:state_focused="true" android:state_pressed="false" android:state_selected="false" />
+    <item android:drawable="@drawable/shape_round_rect_green" android:state_focused="true" android:state_pressed="false" android:state_selected="true" />
+    <!--  Pressed
+     -->
+    <item android:drawable="@drawable/shape_round_rect_green" android:state_pressed="true" />
+
+
+</selector>

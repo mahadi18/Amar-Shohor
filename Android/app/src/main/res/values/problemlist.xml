@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ProblemList">
+        <item name="pothholes">PothHoles</item>
+        <item name="trashdumping">Trash Dumping</item>
+        <item name="faultystreetlights">Faulty Street Lights</item>
+        <item name="uprootedtree">Uprooted Tree</item>
+        <item name="advertisingboards">Illegal Advertising Boards</item>
+        <item name="eveteasing">Eve Teasing</item>
+        <item name="others">Others</item>
+    </string-array>
+</resources>
